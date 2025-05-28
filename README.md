@@ -1,4 +1,4 @@
-In this project, I created a basic domain network using two virtual machines inside Oracle VirtualBox, a tool that allows us to run multiple operating systems on
+In this mini project, I created a basic domain network using two virtual machines inside Oracle VirtualBox, a tool that allows us to run multiple operating systems on
 the same physical machine. One virtual machine was configured as a Domain Controller running Windows Server 2019, and the other as a client computer running
 Windows 10 Professional.
 
